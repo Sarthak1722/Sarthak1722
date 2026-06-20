@@ -18,4 +18,6 @@
 
 Go, C++, JavaScript, Python, SQL | Node.js, Express.js, React.js GoFiber | MongoDB, PostgreSQL  
 Docker, AWS, REST APIs, Microservices | Machine Learning, NLP
+
+---
 ⭐ *Always building scalable systems and learning new technologies.*
